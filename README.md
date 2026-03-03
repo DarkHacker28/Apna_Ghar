@@ -1,4 +1,4 @@
-# 🏠 LuxeHaven — Real Estate Rental Platform
+# 🏠 Apna Ghar — Real Estate Rental Platform
 
 A full-stack enterprise-grade rental apartment application built with **Next.js**, **Node.js**, and simulated **AWS services** for local development.
 
